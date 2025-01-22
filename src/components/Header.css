@@ -1,0 +1,84 @@
+/* Style for the header */
+.header {
+  background-color: #ffffff;
+  color: white;
+  padding: 0px;
+  text-align: center;
+  height: 156px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  position: fixed;     
+  top: 0;              
+  left: 0;             
+  width: 100%;         
+  z-index: 1000;       
+}
+
+.header-logo {
+  display: flex;
+  height: 156px;
+  width: auto;
+  cursor: pointer;
+}
+
+p.ea {
+  font-family: 'Lovelo', sans-serif;
+  color: #000;
+  font-size: 32px;
+  font-style: bold;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 4.8px;
+  position: absolute;
+  top: 35px;
+  left: 300px;
+  cursor: pointer;
+}
+
+p.ea:hover {
+  text-decoration: underline;
+}
+
+p.eb {
+  font-family: 'Lovelo', sans-serif;
+  color: #000;
+  font-size: 32px;
+  font-style: bold;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 4.8px;
+  position: absolute;
+  top: 35px;
+  right: 450px;
+  cursor: pointer;
+}
+
+p.eb:hover {
+  text-decoration: underline;
+}
+
+p.ec {
+  font-family: 'Lovelo', sans-serif;
+  color: #000;
+  font-size: 32px;
+  font-style: bold;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 4.8px;
+  position: absolute;
+  top: 35px;
+  right: 150px;
+  cursor: pointer;
+}
+
+p.ec:hover {
+  text-decoration: underline;
+}
+
+body {
+  margin-top: 156px;
+}

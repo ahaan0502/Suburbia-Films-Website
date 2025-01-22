@@ -1,0 +1,32 @@
+@font-face {
+  font-family: 'Lovelo';
+  src: url('./assets/fonts/._Lovelo-Black.woff2') format('woff2'),
+       url('./assets/fonts/._Lovelo-Black.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+p.a {
+  font-family: 'Lovelo', sans-serif;
+  font-size: 128px;
+  line-height: 133px; /* 103.906% */
+  letter-spacing: 19.2px;
+  color: white;
+  position: absolute;
+  top: 152px;
+  left: 89px;
+  cursor: default;
+}
+
+p.b {
+  font-family: 'DM Sans', sans-serif;
+}
+
+p.c {
+  font-family: 'Actor', sans-serif;
+}
+
+body {
+  background-color: #000000;
+  background-size: cover;
+}

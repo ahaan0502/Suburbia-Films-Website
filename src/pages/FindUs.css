@@ -1,0 +1,80 @@
+p.ba {
+    font-family: 'DM Sans', sans-serif;
+    color: #FFF;
+    font-family: "DM Sans";
+    font-size: 90px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 13.5px;
+    position: absolute;
+    top: 475px;
+    left: 352px;
+    cursor: pointer;
+  }
+
+  p.bb {
+    font-family: 'DM Sans', sans-serif;
+    color: #FFF;
+    font-family: "DM Sans";
+    font-size: 90px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 13.5px;
+    position: absolute;
+    top: 625px;
+    left: 352px;
+    cursor: pointer;
+  }
+
+  p.bc {
+    font-family: 'DM Sans', sans-serif;
+    color: #FFF;
+    font-family: "DM Sans";
+    font-size: 90px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 13.5px;
+    position: absolute;
+    top: 760px;
+    left: 352px;
+    cursor: pointer;
+  }
+
+  .instagram {
+    width: 106px;
+    height: auto;
+    position: absolute;
+    top: 580px;
+    left: 192px;
+    cursor: pointer;
+  }
+
+  .youtube {
+    width: 106px;
+    height: auto;
+    position: absolute;
+    top: 725px;
+    left: 192px;
+    cursor: pointer;
+  }
+
+  .tiktok {
+    width: 106px;
+    height: auto;
+    position: absolute;
+    top: 870px;
+    left: 192px;
+    cursor: pointer;
+  }
+
+  .line {
+    width: 1250px;
+    height: auto;
+    position: absolute;
+    top: 470px;
+    left: 220px;
+    cursor: pointer;
+  }

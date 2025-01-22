@@ -1,0 +1,261 @@
+html {
+    scroll-behavior: smooth;
+  }
+
+.container {
+    position: relative; /* Add this to allow absolute positioning inside */
+  }
+
+.line1 {
+    width: 1250px;
+    height: auto;
+    position: absolute;
+    top: 470px;
+    left: 220px;
+  }
+
+/* First Film */
+p.baa {
+    font-family: 'DM Sans', sans-serif;
+    color: #FFF;
+    font-size: 96px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 133px; /* 138.542% */
+    letter-spacing: 14.4px;
+    position: absolute;
+    top: 450px;
+    left: 120px;
+    cursor: default;
+  }
+
+p.db {
+    font-family: 'Actor', sans-serif;
+    color: #FFF;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 4.8px;
+    position: absolute;
+    top: 650px;
+    left: 120px;
+    cursor: default;
+  }
+
+  p.bba {
+    font-family: 'DM Sans', sans-serif;
+    color: #FFF;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 3px;
+    position: absolute;
+    top: 800px;
+    left: 120px;
+    cursor: default;
+  }
+
+/* Second Film */
+
+.line2 {
+    width: 1250px;
+    height: auto;
+    position: absolute;
+    top: 1115px;
+    left: 220px;
+  }
+
+  p.bab {
+    font-family: 'DM Sans', sans-serif;
+    color: #FFF;
+    font-size: 92px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 133px; /* 144.565% */
+    letter-spacing: 13.8px;
+    position: absolute;
+    top: 1100px;
+    left: 120px;
+    cursor: default;
+  }
+
+p.dc {
+    font-family: 'Actor', sans-serif;
+    color: #FFF;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 4.8px;
+    position: absolute;
+    top: 1300px;
+    left: 120px;
+    cursor: default;
+  }
+
+  p.bbb {
+    font-family: 'DM Sans', sans-serif;
+    color: #FFF;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 3px;
+    position: absolute;
+    top: 1450px;
+    left: 120px;
+    cursor: default;
+  }
+
+  /* Third Film */
+
+.line3 {
+    width: 1250px;
+    height: auto;
+    position: absolute;
+    top: 1765px;
+    left: 220px;
+  }
+
+  p.bac {
+    font-family: 'DM Sans', sans-serif;
+    color: #FFF;
+    font-size: 92px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 133px; /* 144.565% */
+    letter-spacing: 13.8px;
+    position: absolute;
+    top: 1800px;
+    left: 120px;
+    cursor: default;
+  }
+
+p.dd {
+    font-family: 'Actor', sans-serif;
+    color: #FFF;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 4.8px;
+    position: absolute;
+    top: 2000px;
+    left: 120px;
+    cursor: default;
+  }
+
+  p.bbc {
+    font-family: 'DM Sans', sans-serif;
+    color: #FFF;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 3px;
+    position: absolute;
+    top: 2150px;
+    left: 120px;
+    cursor: default;
+  }
+
+    /* Fourth Film */
+
+.line4 {
+    width: 1250px;
+    height: auto;
+    position: absolute;
+    top: 2415px;
+    left: 220px;
+  }
+
+  p.bad {
+    font-family: 'DM Sans', sans-serif;
+    color: #FFF;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 80px; /* 160% */
+    letter-spacing: 5px;
+    position: absolute;
+    top: 2470px;
+    left: 120px;
+    cursor: default;
+  }
+
+p.de {
+    font-family: 'Actor', sans-serif;
+    color: #FFF;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 4.8px;
+    position: absolute;
+    top: 2670px;
+    left: 120px;
+    cursor: default;
+  }
+
+  p.bbd {
+    font-family: 'DM Sans', sans-serif;
+    color: #FFF;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 3px;
+    position: absolute;
+    top: 2820px;
+    left: 120px;
+    cursor: default;
+  }
+
+  .line5 {
+    width: 1250px;
+    height: auto;
+    position: absolute;
+    top: 3135px;
+    left: 220px;
+    z-index: 10;
+    opacity: 0;
+  }
+
+  .video-container1 {
+    position: absolute;
+    top: 630px;
+    right: 120px;
+    width: 560px;
+    height: 315px;
+  }
+
+  .video-container2 {
+    position: absolute;
+    top: 1275px;
+    right: 120px;
+    width: 560px;
+    height: 315px;
+  }
+
+  .video-container3 {
+    position: absolute;
+    top: 1920px;
+    right: 120px;
+    width: 560px;
+    height: 315px;
+  }
+
+  .video-container4 {
+    position: absolute;
+    top: 2620px;
+    right: 120px;
+    width: 560px;
+    height: 315px;
+  }
+  
+  iframe {
+    width: 100%;
+    height: 100%;
+  }
