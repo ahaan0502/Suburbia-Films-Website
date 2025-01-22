@@ -1,3 +1,8 @@
+## This is a react project created for Suburbia Films
+Currently only formatted for desktop and still missing information,
+but navigation and features are available.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
